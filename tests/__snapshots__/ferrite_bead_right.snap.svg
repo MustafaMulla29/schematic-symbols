@@ -1,16 +1,1 @@
-<svg width="150" height="150" viewBox="-0.51 -0.449 1.02 0.888" xmlns="http://www.w3.org/2000/svg"><path d="M-0.42,0 L-0.16,0" fill="none" stroke="black" stroke-width="0.02" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M0.17,0 L0.43,0" fill="none" stroke="black" stroke-width="0.02" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M-0.25,0.16 L0.02,-0.3 L0.25,-0.17 L-0.02,0.29 L-0.25,0.16" fill="none" stroke="black" stroke-width="0.02" stroke-linecap="round" stroke-linejoin="round" />
-    <text x="0" y="-0.37" dx="0" dy="0" text-anchor="middle" style="font: 0.1px monospace; fill: black">{REF}</text><rect x="-0.0125" y="-0.3825" width="0.025" height="0.025" fill="blue" />
-    <text x="0" y="0.37" dx="0" dy="0.07500000000000001" text-anchor="middle" style="font: 0.1px monospace; fill: black">{VAL}</text><rect x="-0.0125" y="0.3575" width="0.025" height="0.025" fill="blue" />
-
-    <rect x="-0.465" y="-0.025" width="0.05" height="0.05" fill="red" />
-    <text x="-0.48" y="0.09" text-anchor="middle" style="font: 0.08px monospace; fill: #833;">1</text>
-  
-    
-    <rect x="0.415" y="-0.035" width="0.05" height="0.05" fill="red" />
-    <text x="0.4" y="0.08" text-anchor="middle" style="font: 0.08px monospace; fill: #833;">2</text>
-  
-<path d="M 0 -0.030000000000000002 L 0.025 -0.005 L 0 0.02 L -0.025 -0.005 Z" fill="green" />
-<text x="-0.425" y="-0.365" style="font: 0.05px monospace; fill: #833;">0.85 x 0.74</text>
-<text x="-0.425" y="-0.365" style="font: 0.05px monospace; fill: #833;">0.85 x 0.74</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="-0.51 -0.449 1.02 0.888"><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".02" d="M-0.42,0 L-0.16,0"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".02" d="M0.17,0 L0.43,0"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".02" d="M-0.25,0.16 L0.02,-0.3 L0.25,-0.17 L-0.02,0.29 L-0.25,0.16"/><text x="0" y="-.37" dx="0" dy="0" text-anchor="middle" style="font:.1px monospace;fill:#000">{REF}</text><rect width=".025" height=".025" x="-.013" y="-.383" fill="#00f"/><text x="0" y=".37" dx="0" dy=".075" text-anchor="middle" style="font:.1px monospace;fill:#000">{VAL}</text><rect width=".025" height=".025" x="-.013" y=".357" fill="#00f"/><rect width=".05" height=".05" x="-.465" y="-.025" fill="red"/><text x="-.48" y=".09" text-anchor="middle" style="font:.08px monospace;fill:#833">1</text><rect width=".05" height=".05" x=".415" y="-.035" fill="red"/><text x=".4" y=".08" text-anchor="middle" style="font:.08px monospace;fill:#833">2</text><path fill="green" d="M 0 -0.030000000000000002 L 0.025 -0.005 L 0 0.02 L -0.025 -0.005 Z"/><text x="-.425" y="-.365" style="font:.05px monospace;fill:#833">0.85 x 0.74</text><text x="-.425" y="-.365" style="font:.05px monospace;fill:#833">0.85 x 0.74</text></svg>

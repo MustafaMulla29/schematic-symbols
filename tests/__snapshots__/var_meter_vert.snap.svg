@@ -1,17 +1,1 @@
-<svg width="150" height="150" viewBox="-0.4256732099999997 -0.636 0.8513464199999994 1.272" xmlns="http://www.w3.org/2000/svg"><path d="M-3.245314017740486e-17,-0.53 L-1.8369701987210297e-17,-0.3" fill="none" stroke="black" stroke-width="0.02" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M1.775737858763662e-17,0.29 L3.245314017740486e-17,0.53" fill="none" stroke="black" stroke-width="0.02" stroke-linecap="round" stroke-linejoin="round" />
-    <circle cx="-0.01" cy="-0.01" r="0.29" fill="none" stroke="black" stroke-width="0.02" />
-    <text x="-0.3594553499999995" y="2.2010292190694547e-17" dx="0" dy="0.037500000000000006" text-anchor="end" style="font: 0.1px monospace; fill: black">{REF}</text><rect x="-0.3719553499999995" y="-0.012499999999999978" width="0.025" height="0.025" fill="blue" />
-    <text x="0.35" y="-2.143131898507868e-17" dx="0" dy="0.037500000000000006" text-anchor="start" style="font: 0.1px monospace; fill: black">{VAL}</text><rect x="0.33749999999999997" y="-0.012500000000000022" width="0.025" height="0.025" fill="blue" />
-    <text x="0.009999999999999998" y="-0.02" dx="0" dy="0.1" text-anchor="middle" style="font: 0.2px monospace; fill: black">Var</text><rect x="-0.0025000000000000022" y="-0.0325" width="0.025" height="0.025" fill="blue" />
-
-    <rect x="-0.025000000000000036" y="-0.5650000000000001" width="0.05" height="0.05" fill="red" />
-    <text x="-0.040000000000000036" y="-0.45000000000000007" text-anchor="middle" style="font: 0.08px monospace; fill: #833;">1</text>
-  
-    
-    <rect x="-0.024999999999999967" y="0.515" width="0.05" height="0.05" fill="red" />
-    <text x="-0.039999999999999966" y="0.6300000000000001" text-anchor="middle" style="font: 0.08px monospace; fill: #833;">2</text>
-  
-<path d="M 0 -0.025 L 0.025 0 L 0 0.025 L -0.025 0 Z" fill="green" />
-<text x="-0.35472767499999974" y="-0.53" style="font: 0.05px monospace; fill: #833;">0.71 x 1.06</text>
-<text x="-0.35472767499999974" y="-0.53" style="font: 0.05px monospace; fill: #833;">0.71 x 1.06</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="-0.426 -0.636 0.851 1.272"><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".02" d="M-3.245314017740486e-17,-0.53 L-1.8369701987210297e-17,-0.3"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".02" d="M1.775737858763662e-17,0.29 L3.245314017740486e-17,0.53"/><circle cx="-.01" cy="-.01" r=".29" fill="none" stroke="#000" stroke-width=".02"/><text x="-.359" y="0" dx="0" dy=".038" text-anchor="end" style="font:.1px monospace;fill:#000">{REF}</text><rect width=".025" height=".025" x="-.372" y="-.012" fill="#00f"/><text x=".35" y="0" dx="0" dy=".038" text-anchor="start" style="font:.1px monospace;fill:#000">{VAL}</text><rect width=".025" height=".025" x=".337" y="-.013" fill="#00f"/><text x=".01" y="-.02" dx="0" dy=".1" text-anchor="middle" style="font:.2px monospace;fill:#000">Var</text><rect width=".025" height=".025" x="-.003" y="-.033" fill="#00f"/><rect width=".05" height=".05" x="-.025" y="-.565" fill="red"/><text x="-.04" y="-.45" text-anchor="middle" style="font:.08px monospace;fill:#833">1</text><rect width=".05" height=".05" x="-.025" y=".515" fill="red"/><text x="-.04" y=".63" text-anchor="middle" style="font:.08px monospace;fill:#833">2</text><path fill="green" d="M 0 -0.025 L 0.025 0 L 0 0.025 L -0.025 0 Z"/><text x="-.355" y="-.53" style="font:.05px monospace;fill:#833">0.71 x 1.06</text><text x="-.355" y="-.53" style="font:.05px monospace;fill:#833">0.71 x 1.06</text></svg>
